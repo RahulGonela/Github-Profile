@@ -15,4 +15,5 @@ A person with no knowledge of github can now search for a user and see his/her p
 3. JavaScript
 
 
+
 Suggestions on improving the template are welcomed!
