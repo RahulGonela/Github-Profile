@@ -1,4 +1,4 @@
-# [30 Days Of JavaScript](30daysofjs.netlify.app) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# [JavaScript](30daysofjs.netlify.app) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Repo containing all the projects made in 30 Days while completing the <b>30 Days of JavaScript Challenge</b>.
 
